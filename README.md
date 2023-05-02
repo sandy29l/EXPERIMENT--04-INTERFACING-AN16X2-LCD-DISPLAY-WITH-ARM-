@@ -198,7 +198,8 @@ int main(void)
 ```
 
 ## Output screen shots of proteus  :
- 
+ ![WhatsApp Image 2023-05-02 at 10 25 25](https://user-images.githubusercontent.com/123359969/235585529-6c35c2cd-7d79-4c0e-86c4-6deb564bbc7b.jpg)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
