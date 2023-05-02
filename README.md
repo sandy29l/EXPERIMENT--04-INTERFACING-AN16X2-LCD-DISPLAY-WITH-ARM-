@@ -203,7 +203,8 @@ int main(void)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- 
+ ![c093242f-aba5-409e-9fb7-c8f9a05bd542](https://user-images.githubusercontent.com/123359969/235587901-70427903-4ad9-40ae-ad34-08466b378e4f.png)
+
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
